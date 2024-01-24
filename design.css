@@ -1,0 +1,39 @@
+body
+{
+  background-image: url('background.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.link {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+    text-align: center;
+}
+
+button {
+    background-color: bisque;
+    color: indianred;
+    border: none;
+    font-size: large;
+   
+}
+a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: purple;
+    background-color: transparent;
+    text-decoration: underline;
+  }
